@@ -16,7 +16,7 @@
 <h2 align="center">📱 Technologies</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-dotnet-512BD4?style=flat-square&logo=html5&logoColor=white" alt=".NET"/>
+  <img src="https://img.shields.io/badge/-dotnet-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET"/>
   <img src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML"/>
   <img src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS"/>
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
