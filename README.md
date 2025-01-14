@@ -11,7 +11,12 @@
 ---
 
 <h2 align="center">🚀 About Me</h2>
-<p align="center">Olá, sou desenvolvedora com foco em JavaScript e Node.js e experiência em C# e .NET.</p>
+<p align="center">Olá, sou desenvolvedora com +2 anos de experiência em C# e .NET.</p>
+<p align="center"> Estou focada em estudos com JavaScript </p>
+<h2 align="center">📚 Estudos na fila:</h2>
+<p align="center">Vue.Js</p>
+<p align="center">Node.Js</p>
+
 
 <h2 align="center">📱 Technologies</h2>
 
@@ -21,9 +26,6 @@
   <img src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS"/>
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/-Express-black?style=flat-square&logo=Express" alt="Express"/>
-  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
   <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
