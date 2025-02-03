@@ -12,7 +12,7 @@
 
 <h2 align="center">🚀 About Me</h2>
 <p align="center">Olá, sou desenvolvedora com +2 anos de experiência em C# e .NET.</p>
-<p align="center"> Estou focada em estudos com JavaScript </p>
+<p align="center"> No momento focada em estudos com C# e JavaScript </p>
 <h2 align="center">📚 Estudos na fila:</h2>
 <p align="center">Vue.Js</p>
 <p align="center">Node.Js</p>
