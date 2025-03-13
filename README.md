@@ -11,9 +11,11 @@
 ---
 
 <h2 align="center">🚀 About Me</h2>
-<p align="center">Olá, sou desenvolvedora com +2 anos de experiência em C# e .NET.</p>
-<h3 align="center"> No momento focada em estudos com C# e JavaScript </h3>
+<p align="center">Olá, me chamo Alexya, sou desenvolvedora Full-Stack com 3 anos de experiência em C# e .NET.</p>
+<h3 align="center"> No momento focada em estudos com C# e JavaScript e React.Js </h3>
 <h2 align="center">📚 Estudos na fila:</h2>
+<p align="center">Vite e React.Js</p>
+<p align="center">Express</p>
 <p align="center">Vue.Js</p>
 <p align="center">Node.Js</p>
 
